@@ -1,0 +1,58 @@
+Qué hace un Front-end?
+
+Herramientas de desarrollo HTML, CSS Y JavaScript
+
+Frameworks de CSS Frameworks de JavaScript
+Preprocesadores de CSS less Stylus Sass
+Compiladores de JavaScript BABEL y webpack
+
+Que es y Qué hace un Back-end?
+Trabaja del lado del servidor, logica del negocio
+
+Infrastructura Google Cloud DigitalOcean aws Heroku
+
+Bases de datos
+
+mongoDB MySQL PostGreSQL
+
+Full Stack
+
+Una persona que entiende de principio a fin el desarrollo de una aplicación pero que se especializa en una area front o Back
+
+
+Páginas estáticas vs Dinámicas
+
+No  hay cambios en una pagina estática  tienden a ser paginas de información no tienden a cambios
+
+Paginas Dinámicas
+
+La información cambia hay conección a bases de datos. interactiva.
+
+Antomía de una página web.
+
+CONTAINER
+LOGO HEADER NAVIGATION MAIN CONTENT SIDEBAR FOOTER
+--------------------------------------------------------------------------------------------------------------------------------
+
+HTML
+
+Index y su estructura básica
+
+Imagenes Lossy vs Lossless
+Sin perdida con perdida
+PNG 8
+png 24 uso de imagenes ilimitado
+JPG - JPEG- Fotografia Lossy
+SVG - Vector / Lossless
+
+Optimizacion de imágenes
+
+Tamaño promedio 70 KB
+Paginas para Optimizacion
+
+Tiny PNG
+Verexif Camara fotografica
+
+
+
+
